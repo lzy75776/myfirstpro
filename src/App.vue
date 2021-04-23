@@ -9,5 +9,5 @@
 </template>
 
 <style>
-@import "src/assets/css/normalize.css";
+@import "../src/assets/css/base.css";
 </style>
